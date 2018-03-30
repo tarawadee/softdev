@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_name"
+        android:icon="@mipmap/ic_perm_identity_black_24dp"
+        android:title="My name is Tarawadee"/>
+    <item android:id="@+id/nav_job"
+
+        android:icon="@mipmap/ic_pageview_black_24dp"
+        android:title="My fevorite"/>
+</menu>
